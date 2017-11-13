@@ -1,7 +1,7 @@
 # Essential_books
 This repository contains books from different topics and perfect enough to give developers a boost in understanding the concepts of Data Science and Artificial Intelligence(other topics are also included but main highlights are these two).
 
-#Contributor Code of Conduct
+# Contributor Code of Conduct
 ### Guidelines
 - make sure a book is free. Double-check if needed. It helps the admins if you comment in the PR as to why you think the book is free.
 - we don't accept files hosted on google drive, dropbox, mega, scribd, issuu and other similar file upload platforms
@@ -20,8 +20,8 @@ This repository contains books from different topics and perfect enough to give 
 - if a link exists in multiple format, add a separate link with a note about each format
 - if a resource exists at different places on the Internet
     + use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
-    + if they link to different editions and you judge these editions are different enough to be worth keeping them, add a separate link with a note about each edition (see [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) to contribute to the discussion on formatting.)
+    + if they link to different editions and you judge these editions are different enough to be worth keeping them, add a separate link with a note about each edition 
 - prefer atomic commits (one commit by addition/deletion/modification) over bigger commits. No need to squash your commits before submitting a PR. (We will never enforce this rule as it's just a matter of convenience for the maintainers)
 - if the book is older, include the publication date with the title. 
 - include the author name or names where appropriate. You can shorten author lists with "et al."
-- if the book is not finished, and is still being worked on, add the "in process" notation, as described [below.](#in_process)
+- if the book is not finished, and is still being worked on, add the "in process" notation.
