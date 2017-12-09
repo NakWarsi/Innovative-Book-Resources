@@ -1,4 +1,4 @@
-# Essential_books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/InnovativeCoder/Essential_books)
+# Essential-Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/InnovativeCoder/Essential_books)
 This repository contains books from different topics and perfect enough to give developers a boost in understanding the concepts of Data Science and Artificial Intelligence(other topics are also included but main highlights are these two).
 
 # Contributor Code of Conduct
